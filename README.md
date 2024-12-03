@@ -1,4 +1,6 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Google
+
+Este repositório foi criado com o objetivo de simular um ataque via phishing para captura de senhas como parte do desafio proposto no Bootcamp de Cibersegurança. 
 
 ### Ferramentas
 
@@ -12,9 +14,9 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Método de ataque: ``` Web Templates ```
+- Método de ataque: ``` Google ```
+
 
 ### Resutados
 
